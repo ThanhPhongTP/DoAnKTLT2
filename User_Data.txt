@@ -1,0 +1,11 @@
+
+1,gv1,Thi Trinh,CNTT,14,12,2014,Quan 9,0964310510,
+1,gv2,Tuan Vu,QTKD,25,8,2004,Quan 9,0123456780,
+1,gv3,Thanh Tuan,TA,14,1,2015,Thu Duc,01657412358,
+1,gv4,Kieu Pham,KT,16,3,2017,Thu duc,0167888952,
+1,gv5,Nguyen Thanh,KT,21,9,2009,Quan 1,01692487045,
+2,sv1,Thanh Phong,CNTT,15,10,2016,17,
+2,sv2,Viet Hoang,KT,15,10,2016,15,
+2,sv3,Thanh Tam,TA,15,10,2016,16,
+2,sv4,Huu Thang,QTKD,15,10,2016,17,
+2,sv5,Phan Nguyen,CNTT,15,10,2016,14,
