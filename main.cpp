@@ -474,7 +474,7 @@ void docSach(Sach *S[], int &nSpt)
 }
 void XuatSach(Sach *S[], int nSpt)
 {
-	cout << "\n==========XUAT SACH==========\n";
+	cout << "\n\t\t===============XUAT SACH===============\n";
 	cout << "MaSach" << setw(10) << "TieuDe " << setw(15) << "Tac Gia " << setw(15) 
 		<< "NhaxuatBan" << setw(10) << "GiaBan "<< setw(10) << "So Trang "<< setw(15) << "Ngay Nhap\n";
 	for(int i = 0; i < nSpt - 1; i++)
